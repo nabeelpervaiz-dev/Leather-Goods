@@ -1,0 +1,38 @@
+export const initialCategories = [
+  {
+    id: 'cat-shoes',
+    name: 'Shoes',
+    slug: 'shoes',
+    description: 'Goodyear-welted Oxfords, penny loafers, and calfskin Chelsea boots built for decades of stride.',
+    image: '/src/assets/images/shoe_oxford_espresso_1794844438979.webp',
+    enabled: true,
+    displayOrder: 1,
+  },
+  {
+    id: 'cat-jackets',
+    name: 'Jackets',
+    slug: 'jackets',
+    description: 'Full-grain lambskin and cowhide outerwear tailored with solid brass hardware and natural drape.',
+    image: '/src/assets/images/jacket_racer_espresso_1794844440857.webp',
+    enabled: true,
+    displayOrder: 2,
+  },
+  {
+    id: 'cat-wallets',
+    name: 'Wallets',
+    slug: 'wallets',
+    description: 'Slim vegetable-tanned bifolds and pocket cardholders with hand-burnished edges.',
+    image: '/src/assets/images/wallet_bifold_cognac_1794844441528.webp',
+    enabled: true,
+    displayOrder: 3,
+  },
+  {
+    id: 'cat-bags',
+    name: 'Bags',
+    slug: 'bags',
+    description: 'Structured briefcases, weekenders, and everyday carryalls crafted from rich pull-up hides.',
+    image: '/src/assets/images/hero_leather_bag_1794844438936.webp',
+    enabled: true,
+    displayOrder: 4,
+  },
+];

@@ -1,0 +1,6 @@
+{
+  "name": "Creating Leather Goods",
+  "description": "Handcrafted leather shoes, jackets, wallets, and bags designed for everyday living with Cash on Delivery across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
